@@ -17,7 +17,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name                    | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/2ce741278f9bae9e2729e22fa31fd9f464366e8b.jpg) | Frog Engineer           | [76561198258160670](https://steamcommunity.com/profiles/76561198258160670/) | ❌           | 2026-05-02 08:59:50 | 2026-05-11 19:46:51 |          |
+
 | ![](https://avatars.steamstatic.com/a9f3a8ab2de25c0c849253501294f18dab331aae.jpg) | 鲨鱼为海唱过歌                 | [76561199546014576](https://steamcommunity.com/profiles/76561199546014576/) | ✅           | 2025-06-20 11:26:52 |                     |          |
 | ![](https://avatars.steamstatic.com/01dc39171b84b435fcdbffda5d5e775595e0849a.jpg) | 龙仔                      | [76561198982240503](https://steamcommunity.com/profiles/76561198982240503/) | ✅           | 2022-12-12 06:18:02 |                     |          |
 | ![](https://avatars.steamstatic.com/ddf81f3ab878640fc4dd1f2a06f5fed3df853c35.jpg) | 账号猫在用                   | [76561199502764052](https://steamcommunity.com/profiles/76561199502764052/) | ✅           | 2026-03-24 09:38:14 |                     |          |
